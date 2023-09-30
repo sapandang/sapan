@@ -1,6 +1,6 @@
 <!--
 <h2 align="center">
-  Welcome to Al Siam World!
+  Welcome to SapanWorld!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 -->
@@ -104,8 +104,8 @@
 ## Top Open Source -
 [![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=sapandang&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sapandang/web-projects)
 [![Al Folio](https://github-readme-stats.vercel.app/api/pin/?username=sapandang&repo=al-folio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sapandang/al-folio)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=sapandang&repo=sapandang&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sapandang/sapandang)
-[![Al Siam Teminal](https://github-readme-stats.vercel.app/api/pin/?username=sapandang&repo=sapandang.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sapandang/sapandang.github.io)
+[![SapanReadme](https://github-readme-stats.vercel.app/api/pin/?username=sapandang&repo=sapandang&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sapandang/sapandang)
+[![SapanTeminal](https://github-readme-stats.vercel.app/api/pin/?username=sapandang&repo=sapandang.github.io&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/sapandang/sapandang.github.io)
 
 <p align="left">
   <a href="https://github.com/sapandang?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
